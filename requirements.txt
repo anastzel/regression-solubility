@@ -6,3 +6,4 @@ rdkit==2022.3.4
 rdkit_pypi==2022.3.3
 scikit_learn==1.1.1
 streamlit==1.10.0
+altair==4.2.2
